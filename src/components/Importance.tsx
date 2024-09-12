@@ -54,7 +54,7 @@ export default function Importance() {
             Why Choose Our Store?
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Experience the difference of shopping with us. We're committed to
+            Experience the difference of shopping with us. We&apos;re committed to
             providing you with the best products, service, and overall
             experience.
           </p>

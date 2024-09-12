@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="space-y-4">
             <h3 className="text-lg font-semibold text-gray-800">About Us</h3>
             <p className="text-sm">
-              We're passionate about bringing you the latest tech gadgets at
+              We&apos;re passionate about bringing you the latest tech gadgets at
               unbeatable prices. Our curated selection ensures quality and
               innovation in every product.
             </p>
@@ -93,7 +93,7 @@ export default function Footer() {
         <Separator className="my-8" />
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <div className="text-sm">
-            © 2023 Your Company Name. All rights reserved.
+            &copy; 2023 Your Company Name. All rights reserved.
           </div>
           <div className="flex space-x-4">
             <a

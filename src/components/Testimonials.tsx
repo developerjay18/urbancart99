@@ -77,7 +77,7 @@ export default function Testimonials() {
           What Our Customers Say
         </h2>
         <p className="text-xl text-gray-600 text-center max-w-3xl mx-auto mb-12">
-          Don't just take our word for it. Here's what our satisfied customers
+          Don&apos;t just take our word for it. Here&apos;s what our satisfied customers
           have to say about their experiences with our products.
         </p>
 
@@ -114,7 +114,7 @@ export default function Testimonials() {
                     ))}
                   </div>
                   <p className="text-sm text-gray-500 mb-4">
-                   "89.89.89"
+                   89.89.89
                   </p>
                   <Badge variant="secondary" className="mb-4">
                     {reviews[currentReview].product}
